@@ -3,4 +3,5 @@
     // Aynı zamanda Travis’e kullandığınız dilin versiyonunu belirtmelisiniz
   node_js:
     - 14.4.0
-
+  os:
+    - windows
