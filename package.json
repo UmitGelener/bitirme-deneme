@@ -1,0 +1,23 @@
+{
+  "name": "travis-deneme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jshint": "^2.11.1"
+  },
+  "scripts": {
+    "test": "jshint app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UmitGelener/bitirme-deneme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/UmitGelener/bitirme-deneme/issues"
+  },
+  "homepage": "https://github.com/UmitGelener/bitirme-deneme#readme",
+  "description": ""
+}

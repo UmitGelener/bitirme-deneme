@@ -1,0 +1,7 @@
+  // Travis’e hangi dil ile yazdığınızı belirtmelisiniz
+  language: node_js
+    // Aynı zamanda Travis’e kullandığınız dilin versiyonunu belirtmelisiniz
+  node_js:
+    - 14.4.0
+  os:
+    - windows
