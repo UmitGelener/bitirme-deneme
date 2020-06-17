@@ -4,4 +4,4 @@
   node_js:
     - 14.4.0
   os:
-    - windows
+    - "windows"
